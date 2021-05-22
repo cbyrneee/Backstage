@@ -1,8 +1,8 @@
-# Audition Backend
+# Backstage
 
 Audition is a web application made with React that recommends artists on Spotify based on your music taste. 
 
-This is the backend for Audition which handles authentication with Spotify. If you're interested in the frontend, see [here](https://github.com/dreamhopping/audition).
+This is the backend for Audition which handles authentication with Spotify. If you're interested in the frontend, see [here](https://github.com/cbyrneee/audition).
 
 ## Setup 
 1. Make a new spotify app on the [dashboard](https://developer.spotify.com/dashboard/) and put the client id, client secret and redirect uri into a file called ``.env``. Make sure the redirect uri is set to ``http://localhost:3000`` in your app's settings
